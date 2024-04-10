@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "740023908340",
+    "project_id": "trustmebro-9f8d4",
+    "storage_bucket": "trustmebro-9f8d4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:740023908340:android:23b080f30b1eec3b1aeba1",
+        "android_client_info": {
+          "package_name": "com.example.project_trustmebro"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBEKPLw5imyaZxPjVKpVO8BnoDgWYnHG9w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
