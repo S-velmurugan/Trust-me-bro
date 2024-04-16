@@ -1,4 +1,11 @@
-A peer to peer lending platform This app mainly targets the students of VIT Chennai. Main function of this app is to provide a paltform for students to lend and borrow items as they please. We focused on this issue, because most people would forget their essentials before exam(like calculator) and waste their time searching for people who can give a calculator. Our app provides that platform so that it shows people who are ready to lend and what are they lending. The borrower can also post a request stating the item he needs and anyone can accept his request. This is the basic idea of the app.
+A peer to peer lending platform.
+This app mainly targets the students of VIT Chennai.
+Main function of this app is to provide a paltform for students to lend and borrow items as they please.
+We focused on this issue, because most people would forget their essentials before exam(like calculator)
+and waste their time searching for people who can give a calculator.
+Our app provides that platform so that it shows people who are ready to lend and what are they lending.
+The borrower can also post a request stating the item he needs and anyone can accept his request.
+This is the basic idea of the app.
 
 There are mainly 3 windows in our app:
 
