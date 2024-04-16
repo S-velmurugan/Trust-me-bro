@@ -1,16 +1,8 @@
-# project_trustmebro
+A peer to peer lending platform This app mainly targets the students of VIT Chennai. Main function of this app is to provide a paltform for students to lend and borrow items as they please. We focused on this issue, because most people would forget their essentials before exam(like calculator) and waste their time searching for people who can give a calculator. Our app provides that platform so that it shows people who are ready to lend and what are they lending. The borrower can also post a request stating the item he needs and anyone can accept his request. This is the basic idea of the app.
 
-A new Flutter project.
+There are mainly 3 windows in our app:
 
-## Getting Started
+    Lend Window - which shows the people who are lending and also what are they lending, you can also create a new 'lend post' stating that you are ready to lend xxxxx.
+    Borrow Window - which shows the people who need something and you can accept it, and same as lend post you can create a 'borrow request' stating that you need xxxxx.
+    Profile Window - which shows your friends and also the statistics of your lending and borrowing, namely - (lent-10 , borrowed-5).
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
