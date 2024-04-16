@@ -2,7 +2,7 @@ A peer to peer lending platform This app mainly targets the students of VIT Chen
 
 There are mainly 3 windows in our app:
 
-Lend Window - which shows the people who are lending and also what are they lending, you can also create a new 'lend post' stating that you are ready to lend xxxxx.
-Borrow Window - which shows the people who need something and you can accept it, and same as lend post you can create a 'borrow request' stating that you need xxxxx.
-Profile Window - which shows your friends and also the statistics of your lending and borrowing, namely - (lent-10 , borrowed-5).
+1.Lend Window - which shows the people who are lending and also what are they lending, you can also create a new 'lend post' stating that you are ready to lend xxxxx.
+2.Borrow Window - which shows the people who need something and you can accept it, and same as lend post you can create a 'borrow request' stating that you need xxxxx.
+3.Profile Window - which shows your friends and also the statistics of your lending and borrowing, namely - (lent-10 , borrowed-5).
 
